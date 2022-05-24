@@ -23,8 +23,7 @@
 #     print(args)
 #     extractImages(args.pathIn, args.pathOut)
     
-    
-    
+# OR ##################################################################################################
     
 import cv2 
 vidcap = cv2.VideoCapture('5-morn/date_5morn.mp4') 
